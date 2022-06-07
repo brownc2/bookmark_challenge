@@ -1,7 +1,24 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/davekempsell/Projects/bookmark_challenge/spec/features/infrastructure_test_spec.rb": {
+      "/Users/chrisbrown/Documents/makers/week4/bookmark_challenge/spec/bookmark_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/chrisbrown/Documents/makers/week4/bookmark_challenge/spec/features/infrastructure_test_spec.rb": {
         "lines": [
           1,
           1,
@@ -11,7 +28,7 @@
           null
         ]
       },
-      "/Users/davekempsell/Projects/bookmark_challenge/spec/features/viewing_bookmarks_spec.rb": {
+      "/Users/chrisbrown/Documents/makers/week4/bookmark_challenge/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -21,10 +38,11 @@
           1,
           1,
           null,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1654611439
+    "timestamp": 1654613483
   }
 }
