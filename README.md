@@ -20,6 +20,9 @@ This Database has been created as a test enviroment for our RSpec features tests
  So that I can quickly go to web sites I regularly visit
  I would like to see a list of bookmarks.
 
+As a user, I would like to have the ability to add bookmarks 
+to my bookmark list, so I can use them again in the future. 
+
 ## Domain Model
 
 ![Bookmark Manager domain model](./public/images/bookmark_manager_1.png)

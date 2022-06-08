@@ -8,10 +8,37 @@
           1,
           1,
           1,
+          null,
+          1,
+          1,
+          1,
+          null,
           1,
           null,
           1,
           1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/chrisbrown/Documents/makers/week4/bookmark_challenge/spec/features/creating_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
           1,
           null,
           null,
@@ -31,7 +58,16 @@
       "/Users/chrisbrown/Documents/makers/week4/bookmark_challenge/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
+          null,
           1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
           1,
           null,
           1,
@@ -43,6 +79,6 @@
         ]
       }
     },
-    "timestamp": 1654687186
+    "timestamp": 1654699356
   }
 }
