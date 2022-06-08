@@ -1,11 +1,18 @@
 # Bookmark Manager
 
-## Steps to run psql
+## Steps to set up Database
 
 Connect to psql
-Create the database using the psql command CREATE DATABASE bookmark_manager;
+Create the database using the psql command **CREATE DATABASE bookmark_manager;**
 Connect to the database using the pqsl command \c bookmark_manager;
-Run the query we have saved in the file 01_create_bookmarks_table.sql
+Run the query we have saved in the file: **01_create_bookmarks_table.sql**
+
+## Steps to set up test Database
+Connect to psql
+Create the database using the psql command: **CREATE DATABASE "bookmark_manager_test";**
+Create new tabel: **CREATE TABLE bookmarks(id SERIAL PRIMARY KEY, url VARCHAR(60));**
+This Database has been created as a test enviroment for our RSpec features tests.
+
 
 ## User Story
 
