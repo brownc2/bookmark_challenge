@@ -23,6 +23,10 @@ This Database has been created as a test enviroment for our RSpec features tests
 As a user, I would like to have the ability to add bookmarks 
 to my bookmark list, so I can use them again in the future. 
 
+As a user
+So I can remove my bookmark from Bookmark Manager
+I want to delete a bookmark
+
 ## Domain Model
 
 ![Bookmark Manager domain model](./public/images/bookmark_manager_1.png)

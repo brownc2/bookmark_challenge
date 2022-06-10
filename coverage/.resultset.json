@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/davekempsell/Projects/collabs/bookmark_challenge/spec/bookmark_spec.rb": {
+      "/Users/chrisbrown/Documents/makers/week4/bookmark_challenge/spec/bookmark_spec.rb": {
         "lines": [
           1,
           1,
@@ -31,10 +31,19 @@
           1,
           null,
           null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
           null
         ]
       },
-      "/Users/davekempsell/Projects/collabs/bookmark_challenge/spec/database_helpers.rb": {
+      "/Users/chrisbrown/Documents/makers/week4/bookmark_challenge/spec/database_helpers.rb": {
         "lines": [
           1,
           null,
@@ -45,7 +54,7 @@
           null
         ]
       },
-      "/Users/davekempsell/Projects/collabs/bookmark_challenge/spec/features/creating_bookmarks_spec.rb": {
+      "/Users/chrisbrown/Documents/makers/week4/bookmark_challenge/spec/features/creating_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -60,7 +69,21 @@
           null
         ]
       },
-      "/Users/davekempsell/Projects/collabs/bookmark_challenge/spec/features/infrastructure_test_spec.rb": {
+      "/Users/chrisbrown/Documents/makers/week4/bookmark_challenge/spec/features/deleting_a_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/chrisbrown/Documents/makers/week4/bookmark_challenge/spec/features/infrastructure_test_spec.rb": {
         "lines": [
           1,
           1,
@@ -70,7 +93,7 @@
           null
         ]
       },
-      "/Users/davekempsell/Projects/collabs/bookmark_challenge/spec/features/viewing_bookmarks_spec.rb": {
+      "/Users/chrisbrown/Documents/makers/week4/bookmark_challenge/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
           null,
@@ -91,6 +114,6 @@
         ]
       }
     },
-    "timestamp": 1654708019
+    "timestamp": 1654851624
   }
 }
